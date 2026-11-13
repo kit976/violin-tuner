@@ -6,10 +6,7 @@ Uses the **YIN pitch detection algorithm** — far more accurate than simple aut
 
 ## Quick Start
 
-### Option 1: Standalone Windows App
-Double-click `ViolinTuner.exe` directly (no Python installation required).
-
-### Option 2: Run with uv & Python
+### Run with uv & Python
 ```bash
 cd violin-tuner
 uv run python main.py
